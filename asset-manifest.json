@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.5263aacd.css",
-    "main.js": "/static/js/main.72f60947.js",
+    "main.css": "/static/css/main.8e8b6ebd.css",
+    "main.js": "/static/js/main.d1f442a2.js",
     "static/js/787.23170c61.chunk.js": "/static/js/787.23170c61.chunk.js",
     "static/media/소그미몰.png": "/static/media/소그미몰.b5ffe9d8dc8a4e0e4157.png",
     "static/media/table.jpg": "/static/media/table.f49ef5e738091a4beff7.jpg",
     "static/media/sheep.jpg": "/static/media/sheep.c73675e403afca5988ec.jpg",
     "static/media/cat.jpg": "/static/media/cat.216e32f168fc03aba93d.jpg",
     "index.html": "/index.html",
-    "main.5263aacd.css.map": "/static/css/main.5263aacd.css.map",
-    "main.72f60947.js.map": "/static/js/main.72f60947.js.map",
+    "main.8e8b6ebd.css.map": "/static/css/main.8e8b6ebd.css.map",
+    "main.d1f442a2.js.map": "/static/js/main.d1f442a2.js.map",
     "787.23170c61.chunk.js.map": "/static/js/787.23170c61.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5263aacd.css",
-    "static/js/main.72f60947.js"
+    "static/css/main.8e8b6ebd.css",
+    "static/js/main.d1f442a2.js"
   ]
 }
